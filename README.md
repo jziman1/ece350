@@ -10,4 +10,5 @@ final.mem is the corresponding machine code.
 ## Edited files
 Wrapper.v was edited to allow for I/O.\
 RAM was edited to allow for I/O.\
+master.xdc was edited to allow for I/O.\
 Processor was edited to include a custom instruction and to route the division remainder to RAM.
