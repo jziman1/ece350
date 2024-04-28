@@ -3,7 +3,9 @@
 MotorPWMSerializer.v controls the motor speed through a PWM signal.\
 ServoPWMSerializer.v controls the continuous servo speed and direciton through a PWM signal.\
 keypad.v allows us to read in values from the keypad.\
-control.v allows for a custom instruction that activates the servo then activates the motor.
+control.v allows for a custom instruction that activates the servo then activates the motor.\
+final.s is the MIPS code.\
+final.mem is the corresponding machine code.
 
 ## Edited files
 Wrapper.v was edited to allow for I/O.\
